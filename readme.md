@@ -16,10 +16,6 @@ We would like to extend our thanks to the following sponsors for helping fund on
 
 Thank you for considering contributing to the Origami CMS ! The contribution guide can be found in the [Laravel documentation](https://www.crewlogix.com).
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Origami CMS, please send an e-mail to Taylor Otwell at muhamad.nadeem@crewlogix.com. All security vulnerabilities will be promptly addressed.
-
 ## License
 
 The Origami CMS is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
